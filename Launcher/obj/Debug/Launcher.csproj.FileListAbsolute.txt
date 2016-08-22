@@ -1,0 +1,9 @@
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Debug\Launcher.exe.config
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Debug\Launcher.exe
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Debug\Launcher.pdb
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.Launcher.resources
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.exe
+c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.pdb

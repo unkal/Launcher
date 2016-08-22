@@ -1,0 +1,9 @@
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Release\Launcher.exe.config
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.Launcher.resources
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.exe
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.pdb
+C:\Users\Lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Release\Launcher.csprojResolveAssemblyReference.cache
