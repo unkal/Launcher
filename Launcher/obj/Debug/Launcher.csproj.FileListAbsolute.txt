@@ -7,3 +7,12 @@ c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\
 c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
 c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.exe
 c:\users\lord\documents\visual studio 2015\Projects\Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.Launcher.resources
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Lord\Documents\GitHub\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
